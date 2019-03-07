@@ -12,4 +12,4 @@ dependencies:
   version: v0.0.1
 - name: istio-golang81
   repository: http://jenkins-x-chartmuseum:8080
-  version: v0.0.4
+  version: v0.0.5
